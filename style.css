@@ -1,0 +1,12 @@
+.min-ht{
+min-height: 70vh;
+} 
+.card .card-title{
+    text-shadow: 1px 1px 3px black !important;
+  }
+.card .card-content ul li{
+    list-style-type: disc;
+    margin-left: 2em;
+    font-size: 1.2em;
+    text-align: left;
+}
